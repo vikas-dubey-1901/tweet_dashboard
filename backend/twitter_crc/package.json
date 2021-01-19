@@ -1,0 +1,27 @@
+{
+  "name": "express-4.x-twitter-example",
+  "version": "0.0.0",
+  "description": "Express 4.x app using Passport for authentication with Twitter.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "example",
+    "express",
+    "passport"
+  ],
+  "author": "Vikas Dubey",
+  "license": "Unlicense",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "connect-ensure-login": "^0.1.1",
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "express-session": "^1.16.1",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-twitter": "^1.0.4"
+  }
+}

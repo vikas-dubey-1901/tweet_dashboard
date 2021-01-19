@@ -1,0 +1,10 @@
+input, button {
+  width: 100%;
+  outline: none;
+  border: none;
+  background: none;
+}
+
+#root {
+  height: 96vh;
+}
