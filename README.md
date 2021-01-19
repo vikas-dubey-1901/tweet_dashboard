@@ -5,7 +5,7 @@
 #This is a Tweet dashborad project which developed using Twitter API V2 endpoints.
 
 #Steps to setup this project
-:pushpin: pushpin: Apply for twitter developer account https://developer.twitter.com/en/apply/user.html
+:pushpin: pushpin: Apply for twitter developer account https://developer.twitter.com/en/apply/user.html <br/>
 :pushpin: Create a project inside your account.
 :pushpin: Create a new App inside your project in developer account.
 :pushpin: Once your App is created you can gather essentials like Consumer API key , Consumer API secret , and Bearer token (these all are required to setup this project).
