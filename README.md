@@ -4,17 +4,17 @@
 
 #This is a Tweet dashborad project which developed using Twitter API V2 endpoints.
 
-#Steps to setup this project
+#Steps to setup this project <br/>
 :pushpin: pushpin: Apply for twitter developer account https://developer.twitter.com/en/apply/user.html <br/>
-:pushpin: Create a project inside your account.
-:pushpin: Create a new App inside your project in developer account.
-:pushpin: Once your App is created you can gather essentials like Consumer API key , Consumer API secret , and Bearer token (these all are required to setup this project).
-:pushpin: Now deploy your App and get App URL.
-:pushpin: Replace localost with your App URL everywhere in the project.
-:pushpin: now got to your twitter developer account portal and activate 3-legged OAuth.
-:pushpin: Fill all the neccesary details like website URL( your hosted URL) , Callback URL(Your call back URL in my case it is https://tweet-handler.herokuapp.com/oauth/callback
-:pushpin: Run npm install noth for frontend and backend folder  to start the React and Express server.
-:pushpin: Now you good to go :+1: :+1:
+:pushpin: Create a project inside your account. <br/>
+:pushpin: Create a new App inside your project in developer account. <br/>
+:pushpin: Once your App is created you can gather essentials like Consumer API key , Consumer API secret , and Bearer token (these all are required to setup this project). <br/>
+:pushpin: Now deploy your App and get App URL. <br/>
+:pushpin: Replace localost with your App URL everywhere in the project. <br/>
+:pushpin: now got to your twitter developer account portal and activate 3-legged OAuth. <br/>
+:pushpin: Fill all the neccesary details like website URL( your hosted URL) , Callback URL(Your call back URL in my case it is https://tweet-handler.herokuapp.com/oauth/callback <br/>
+:pushpin: Run npm install noth for frontend and backend folder  to start the React and Express server. <br/>
+:pushpin: Now you good to go :+1: :+1: <br/>
 
 # This project use CRC login of Twitter to Authenticate User i.e you have to provide your twitter user credentials for CRC authentication.
 # User authentication has been done with Passport ( a NPM package ) 
