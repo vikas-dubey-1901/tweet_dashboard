@@ -14,7 +14,7 @@
 :pushpin: now got to your twitter developer account portal and activate 3-legged OAuth. <br/>
 :pushpin: Fill all the neccesary details like website URL( your hosted URL) , Callback URL(Your call back URL in my case it is https://tweet-handler.herokuapp.com/oauth/callback <br/>
 :pushpin: Run npm install noth for frontend and backend folder  to start the React and Express server. <br/>
-:pushpin: Now you good to go :+1: :+1: <br/>
+:pushpin: Now you are good to go :+1: :+1: <br/>
 
 # This project use CRC login of Twitter to Authenticate User i.e you have to provide your twitter user credentials for CRC authentication.
 # User authentication has been done with Passport ( a NPM package ) 
